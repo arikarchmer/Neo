@@ -1,5 +1,5 @@
 # Neo
-In progress, from scratch implementation of Linear Algebra library
+Implementation of Linear Algebra library (in progress)
 
 ### Notable functions currently supported:
   * Matrix addition
