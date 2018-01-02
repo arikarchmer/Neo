@@ -1,7 +1,7 @@
 # Neo
 Implementation of Linear Algebra library (in progress)
 
-### Notable functions currently supported:
+### functions currently supported:
   * Matrix addition
   * Matrix multiplication
   * Row echelon form
